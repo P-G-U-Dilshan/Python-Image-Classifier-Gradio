@@ -1,6 +1,6 @@
 # AI-Powered Image Classifier Web App
 
-> **Note:** You can view a summary of this project on my [**LinkedIn Post**]([[https://www.linkedin.com/posts/pgudilshan_artificialintelligence-deeplearning-computervision-activity-7386061973475618817-pqyj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF-q3BUBsl-DjW0ndOchJC_uNQMSfqYydL0]).
+> **Note:** You can view a summary of this project on my [**LinkedIn Post**](https://www.linkedin.com/posts/pgudilshan_artificialintelligence-deeplearning-computervision-activity-7386061973475618817-pqyj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAF-q3BUBsl-DjW0ndOchJC_uNQMSfqYydL0).
 
 From theory to practice! This is a simple web app that uses a powerful Deep Learning model (Google's Vision Transformer) to identify objects in photos.
 
